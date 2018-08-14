@@ -1,4 +1,4 @@
-# ListView دروستکردنی
+# ListView لیست
 <div dir=rtl>
     
 هەنگاوەکان.. 
